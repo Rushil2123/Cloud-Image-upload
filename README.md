@@ -1,4 +1,4 @@
-# GitHub Pages Demo. Rushil's owns Page
+# GitHub Pages Demo. Rushil Patel's owns Page
 
 ## :bulb: [What is GitHub Pages?](https://docs.github.com/en/github/working-with-github-pages/about-github-pages)
 
